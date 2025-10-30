@@ -1,3 +1,1 @@
--Ogapminder.csv-qwget
-requirements.txtpandasmatplotlib
 postBuildwget -q -O gapminder.csv http://bit.ly/2uh4s3g
